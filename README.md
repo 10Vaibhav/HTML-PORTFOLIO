@@ -30,3 +30,5 @@ This project is a personal portfolio website for Vaibhav, a web developer. It's 
   - `Movie_ranking.png`
   - `Birthday_invite.png`
 
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
